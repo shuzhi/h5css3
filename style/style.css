@@ -3,7 +3,7 @@
 
 
 /******header*******/
-.home{ width:1170px; margin:0 auto;}
+.home{ width:1170px; padding:0px 135px; margin:0 auto;}
 .home .logo{ width:120px; height:37px; display:block; margin-top: 30px; float:left;}
 .home .nav{height:100px;}
 .home .nav ul{ float:right;}
@@ -27,7 +27,7 @@
 .banner .list li.on{ background:#49cbcd;}
 
 /******service*******/
-.service{ height:320px;  padding:100px 0px;   }
+.service{ height:320px;  padding:100px 135px;   }
 .service ul li{ width:262px; float:left;text-align:center;z-index:0; }
 .service ul li+li{margin-left:40px;}
 .service ul li i{ width:108px; height:108px; border:solid 2px #49cbcd; border-radius:50%; display:block; margin:0 auto; }
@@ -52,7 +52,7 @@
 
 
 /******team*******/
-.team{ height:590px; margin:95px auto; background-color:#FFF; text-align:center;}
+.team{ height:590px;padding:0px 135px; margin:95px auto; background-color:#FFF; text-align:center;}
 .team h2{ font-size:42px; font-weight:bold;}
 .team ul { margin-top:140px;}
 .team ul li{ float:left; width:262px; text-align:center;}
